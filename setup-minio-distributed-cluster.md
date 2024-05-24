@@ -1,4 +1,4 @@
-![image](https://github.com/dagonbo/minio-node-distributed-cluster/assets/51602389/6f0908b0-29cd-43cc-b2a6-f7e6d736d073)# minio-node-distributed-cluster-centos7
+# minio-node-distributed-cluster-centos7
 In this guide will install 3 node cluster
 
 ## Pre-Require
