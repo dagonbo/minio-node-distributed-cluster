@@ -163,4 +163,5 @@ systemctl start minio.service
 
 Credeit:
 Sysadmins: https://sysadmins.co.za/setup-a-4-node-distributed-minio-cluster/
+
 min.io: https://min.io/docs/minio/linux/operations/install-deploy-manage/deploy-minio-multi-node-multi-drive.html
